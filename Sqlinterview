@@ -1,0 +1,10 @@
+CREATE TABLE employees(
+id INT 5
+NAME CHAR 
+DEPARTMENT CHAR
+SALARY FLOAT(5,2)
+);
+
+CREATE TABLE sales(
+
+)
